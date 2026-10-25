@@ -1,4 +1,3 @@
-[Lab01-Single_Regression.md](https://github.com/user-attachments/files/33919606/Lab01-Single_Regression.md)
 # Mission-06A — Linear Regression on ESP32
 
 ## Predicting Machine Temperature with MicroPython
